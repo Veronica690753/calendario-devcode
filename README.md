@@ -1,3 +1,3 @@
 #Calendario con JS
 
-Este es un proyecti usando HTML, CSS y JavasCript
+Este es un proyecti usando HTML, CSS y JavaScript
